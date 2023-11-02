@@ -5,4 +5,9 @@
 
 
 [check out my shape builder](./BuildingShapes)
+
+<p> Shape builder lab with particle system </p>
+
 [check out my bicycle](./Bicycle)
+
+<p> Created a bicycle with spinning wheels </p>
