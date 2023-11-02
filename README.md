@@ -4,4 +4,5 @@
 <p> Project Repository</p>
 
 
-[check out sketch1](./BuildingShapes)
+[check out my shape builder](./BuildingShapes)
+[check out my bicycle](./Bicycle)
