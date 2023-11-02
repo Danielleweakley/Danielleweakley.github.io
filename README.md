@@ -1,7 +1,7 @@
 # Danielleweakley.github.io
 
-<h3> Heading test </h3>
-<p> Paragraph tets </p>
+<h3> Danielle Weakley </h3>
+<p> Project Repository</p>
 
 
-[check out sketch1](./sketch1)
+[check out sketch1](./BuildingShapes)
