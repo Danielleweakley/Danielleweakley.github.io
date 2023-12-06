@@ -11,7 +11,7 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background('grey');
 
   if (gameState === 'start') {
     showStartScreen();
@@ -90,7 +90,7 @@ function showGameOver() {
 function showScore() {
   fill(0);
   textSize(32);
-  text('Score: ' + score, 10, 30);
+  text('Score: ' + score, 500, 30);
 }
 
 function resetGame() {
